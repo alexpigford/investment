@@ -1,3 +1,5 @@
+# to do - add a feature that calculates the interest for each year
+
 InvestmentAmount = int(input("Enter the Investment Amount: "))
 InterestRate = float(input("Enter the Interest Rate: "))
 Years = int(input("Enter the number of years: "))
